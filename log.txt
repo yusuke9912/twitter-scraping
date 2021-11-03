@@ -1,0 +1,84 @@
+/var/www/html/scraping
+/usr/lib/python27.zip
+/usr/lib64/python2.7
+/usr/lib64/python2.7/plat-linux2
+/usr/lib64/python2.7/lib-tk
+/usr/lib64/python2.7/lib-old
+/usr/lib64/python2.7/lib-dynload
+/usr/lib64/python2.7/site-packages
+/usr/lib/python2.7/site-packages
+Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=92.0.4515.107)
+
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=92.0.4515.107)
+
+Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=92.0.4515.107)
+
